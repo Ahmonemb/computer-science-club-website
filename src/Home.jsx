@@ -51,8 +51,8 @@ function Home(){
 <<<<<<< Updated upstream
          <p id = "AboutClub">We are a computer science club that helps others foster their love through coding; anyone with an interest in computers is welcome.We have Collabarative projects we do, guest speakerss, computer programming conferences/events(you can check any upcoming event here)Feel free to join or drop by share your projects/ideas to this club! Or really Anything! Club meetings happend every friday on our discord</p>
 =======
-         <p id = "AboutClub">We are a computer science club that helps others foster their love through coding; anyone with an interest in computers is welcome. We have collabarative projects we do, guest speakers, 
-            computer programming conferences/events (you can check any upcoming event here). Feel free to join or drop by share your projects/ideas to this club! Or really anything! Club meetings happen every Friday on our Discord at 8 PM!</p>
+         <p id = "AboutClub">We are a computer science club that helps others foster their love through coding. Anyone with an interest in computers or programming is welcome. We have collaborative projects, guest speakers, 
+            computer programming conferences/events (you can check any upcoming event here). Feel free to join or drop by share your projects/ideas to this club or just to hang out! Club meetings happen every Friday on our Discord at 8 PM!</p>
 >>>>>>> Stashed changes
             </div>
            <div id="DiscordDiv">
