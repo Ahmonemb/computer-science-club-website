@@ -48,7 +48,9 @@ function Home(){
         </div>
         <div id = "MoreInfoClub">
         <img id="COMSCIIMAGEE" alt = "COMSCI CLUB IMAGE"  src = {logo}/>
-         <p id = "AboutClub">We are a computer science club that helps others foster their love through coding; anyone with an interest in computers is welcome. We have collabarative projects we do, guest speakers, computer programming conferences/events(you can check any upcoming event here)feel free to join or drop by share your projects/ideas to this club! Or really Anything! Club meetings happen every Friday on our discord.</p>
+
+         <p id = "AboutClub">We are a computer science club that helps each student foster their love through coding; anyone with an interest in computer science is welcome. We have collabarative projects we do, guest speakerss, 
+            computer programming conferences/events(you can check any upcoming event here)Feel free to join or drop by share your projects/ideas to this club! Or really Anything! Club meetings happend every friday on our discord at 8pm. Please Join!</p>
             </div>
            <div id="DiscordDiv">
             <h1>JOIN</h1>
