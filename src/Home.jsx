@@ -43,12 +43,12 @@ function Home(){
           </div>
       
         <div className = "WelcomePage">
-       <h1 id ="WelcomeName"> Welcome To Los Medanoss Computer Scinece Club</h1>
-        <p id="WelcomeMessege">Club Meetings happend every friday on <a>Discord!</a></p>
+       <h1 id ="WelcomeName"> Welcome to Los Medanos Computer Science Club</h1>
+        <p id="WelcomeMessege">Club Meetings happen every Friday on <a>Discord!</a></p>
         </div>
         <div id = "MoreInfoClub">
         <img id="COMSCIIMAGEE" alt = "COMSCI CLUB IMAGE"  src = {logo}/>
-         <p id = "AboutClub">We are a computer science club that helps others foster their love through coding; anyone with an interest in computers is welcome.We have Collabarative projects we do, guest speakerss, computer programming conferences/events(you can check any upcoming event here)Feel free to join or drop by share your projects/ideas to this club! Or really Anything! Club meetings happend every friday on our discord</p>
+         <p id = "AboutClub">We are a computer science club that helps others foster their love through coding; anyone with an interest in computers is welcome. We have collabarative projects we do, guest speakers, computer programming conferences/events(you can check any upcoming event here)feel free to join or drop by share your projects/ideas to this club! Or really Anything! Club meetings happen every Friday on our discord.</p>
             </div>
            <div id="DiscordDiv">
             <h1>JOIN</h1>
